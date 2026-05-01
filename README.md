@@ -1,8 +1,28 @@
-- 👋 Hi, I’m Alice
-- 👀 I’m interested in mobile app development and backend development
-- 🌱 I’m currently learning kotlin as well as an Alx software engineering student
-- 💞️ I’m looking to collaborate on android app that uses Firebase backend..
-  
+## 👋 Hi, I’m Alice
+
+💡 I’m passionate about building impactful digital solutions, with a strong focus on **mobile app development**, **backend systems**, and **Applied AI**.
+
+🚀 **Current Focus**
+
+* 🤖 Exploring **Applied AI** and how to use it to build meaningful, real-world applications
+* 🔧 Strengthening my backend development skills
+
+🤝 **Collaboration Interests**
+I’m open to collaborating on:
+
+* 🔥 Projects that use **Firebase** as a backend
+* 🤖 AI-powered applications that solve real problems
+* 🌍 Tech solutions that create impact in education and communities
+
+💭 **What I Enjoy Working On**
+
+* Building user-friendly mobile apps
+* Designing APIs and backend services
+* Applying AI to enhance user experiences and solve practical problems
+
+📫 **Let’s Connect**
+I’m always open to learning, collaboration, and meaningful conversations in tech 🚀
+
 
 
 <!---
